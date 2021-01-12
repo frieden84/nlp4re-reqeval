@@ -1,4 +1,4 @@
-sent_id	sent	Detected as	Resolved as
+ID	Sentence	Detected as	Resolved as
 diagnostic#01	The absolute time of input will be associated with each sensed data item for <referential>its</referential> complete lifecycle, including permanent storage.	NOCUOUS	
 diagnostic#02	Each sensed data item will be qualified as to <referential>its</referential> certitude during the acquisition process.	INNOCUOUS	Each sensed data item
 diagnostic#03	Sensed data input to the tool shall be validated with respect to <referential>its</referential> expected range of values.	INNOCUOUS	sensed data input
