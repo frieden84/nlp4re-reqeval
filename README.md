@@ -7,7 +7,7 @@ More details about the task can be found at: https://nlp4re.github.io/2020/reqev
 
 The dataset is comprised of 200 requirements statements (at a sentence-level). The requirements are orignated from seven distinct domains: spacecraft, diagnostic, digital home, digital library repository management, weather, archive file manipulation and railway.
 
-The requirements are selected from a publicly available repository of requirements specifications~\cite{ferrari:17}. 
+The requirements are selected from a publicly available repository of requirements specifications at https://zenodo.org/record/1414117#.X_28LS1h2M4. 
 
 The dataset was prepared by five annotators with a background in RE and/or linguistics. Each requirement was analyzed by two different annotators. The annotators would first label each pronoun in the requirement as ambiguous or unambiguous and then suggest the likely disambiguation in the case of unambiguous.  
 
