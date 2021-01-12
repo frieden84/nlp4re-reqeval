@@ -2,7 +2,7 @@
 
 This repo contains the annotated dataset that was generated as a part of the shared task introduced in the third workshop on Natural Language Processing for Requirements Engineering. 
 
-More details about the task can be found at: https://nlp4re.github.io/2020/reqeval.html
+More details about the task can be found at: https://nlp4re.github.io/2020/reqeval.html.
 
 
 The dataset is comprised of 200 requirements statements (at a sentence-level). The requirements are orignated from seven distinct domains: spacecraft, diagnostic, digital home, digital library repository management, weather, archive file manipulation and railway.
