@@ -1,4 +1,4 @@
-sent_id	sent	Detected as	Resolved as
+ID	Sentence	Detected as	Resolved as
 library#01	All material that is stored in the repository will enter <referential>it</referential> via the Ingest function.	NOCUOUS	
 library#02-1	The Library may want to accept important digital materials in non-standard formats in case <referential>we</referential> are able to migrate them to a more usable format in the future.	NOCUOUS
 library#02-2	The Library may want to accept important digital materials in non-standard formats in case we are able to migrate <referential>them</referential> to a more usable format in the future.	INNOCUOUS	digital materials
