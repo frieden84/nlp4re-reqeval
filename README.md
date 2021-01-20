@@ -17,6 +17,6 @@ We split the dataset into two thirds used for training and development (training
 
 The files provided in this repo are tab-separated. Each file contains four different columns: 
 - *ID*: a unique identifier representing each pronoun occurrence
-- *Sentence*: the sentence where the pronoun is tagged with <referential> ... </referential>
+- *Sentence*: the sentence where the pronoun is tagged with 'referential'.
 - *Detected as*: the detection result whether this occurrence is nocuous or innocuous
 - *Disambiguated as*: the disambiguation result when applicable  
