@@ -31,4 +31,4 @@ This dataset has been created and annotated by:
 - Davide Fuccie, Blekinge Institute of Technology
 
 ## License
-This work is licensed under a Creative Commons Attribution 4.0 International License. More details on this are provided in the License file. 
+This dataset is licensed under a Creative Commons Attribution 4.0 International License. [**Disclaimer:**] The data was found online and, since it refers to old/completed projects and it was made publicly available, we therefore assume the dataset is not infringing copyright.
