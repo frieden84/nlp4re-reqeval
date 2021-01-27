@@ -4,6 +4,7 @@ This repo contains the annotated dataset that was generated as a part of the sha
 
 More details about the task can be found at: https://nlp4re.github.io/2020/reqeval.html.
 
+## Dataset Details 
 The dataset is comprised of 200 requirements statements (at a sentence-level). The requirements are orignated from seven distinct domains: spacecraft, diagnostic, digital home, digital library repository management, weather, archive file manipulation and railway.
 
 The requirements are selected from a publicly available repository of requirements specifications at https://zenodo.org/record/1414117#.X_28LS1h2M4. 
@@ -20,3 +21,11 @@ The files provided in this repo are tab-separated. Each file contains four diffe
 - *Sentence*: the sentence where the pronoun is tagged with 'referential'
 - *Detected as*: the detection result whether this occurrence is nocuous or innocuous
 - *Disambiguated as*: the disambiguation result when applicable  
+
+## Annotators Details
+This dataset has been created and annotated by: 
+- Sallam Abualhaija, University of Luxembourg 
+- Fabiano Dalpiaz, Utrecht University
+- Alessio Ferrari, CNR-ISTI 
+- Xavier Franch, Polytechnic University of Catalonia
+- Davide Fuccie, Blekinge Institute of Technology
