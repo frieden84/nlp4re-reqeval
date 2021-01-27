@@ -29,3 +29,6 @@ This dataset has been created and annotated by:
 - Alessio Ferrari, CNR-ISTI 
 - Xavier Franch, Polytechnic University of Catalonia
 - Davide Fuccie, Blekinge Institute of Technology
+
+## License
+This work is licensed under a Creative Commons Attribution 4.0 International License. More details on this are provided in the License file. 
