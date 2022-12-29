@@ -28,7 +28,7 @@ This dataset has been created and annotated by:
 - Fabiano Dalpiaz, Utrecht University
 - Alessio Ferrari, CNR-ISTI 
 - Xavier Franch, Polytechnic University of Catalonia
-- Davide Fuccie, Blekinge Institute of Technology
+- Davide Fucci, Blekinge Institute of Technology
 
 ## License
 This dataset is licensed under a Creative Commons Attribution 4.0 International License. **Disclaimer: The data was found online and, since it refers to old/completed projects and it was made publicly available, we therefore assume the dataset is not infringing copyright.**
